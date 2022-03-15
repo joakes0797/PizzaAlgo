@@ -1,0 +1,6 @@
+1. Decide on a pizza restaurant.
+2. Decide on a pizza.
+3. Call and place an order.
+4. Wait for delivery.
+5. Pay and tip the driver.
+6. Eat the delicious pizza.
